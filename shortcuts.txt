@@ -1,0 +1,1 @@
+S -> shift+z,x,y  scale on 2 axis
